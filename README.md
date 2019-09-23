@@ -18,21 +18,52 @@ The data I propose to visualize for my project is the [Nuclear Explosions datase
 
 ## Prototypes
 
-What protypes have I done? What do they show? Include images on what I have done so far. 
-To include images: use snipping tool for the visualization, copy it, make a new issue, paste image in textbox, name: new image, copy the markdown text, edit readme file and paste the markdown text.
-To click on image, it send you to the vizhhub link: copy link from vizhub, edit readme, make the whole image text in [] and paste the link in the () after it. 
+I have made many starting prototypes that show different aspects of the data. 
+
+[![image](https://user-images.githubusercontent.com/23533132/65432224-d22fa600-dde8-11e9-9b88-8ccab1eb3b3d.png)](https://beta.vizhub.com/rachelhahn/ecc92c07391341999d4017de7f9eb3b5)
+
+This visualization is a simple bar chart that shows how many deployments there were per country. My issue with this visualization is that it does not show time, location, or any specific information about each deployment. 
+
+[![image](https://user-images.githubusercontent.com/23533132/65432562-6e59ad00-dde9-11e9-9b53-aa212f3ca3fa.png)](https://beta.vizhub.com/rachelhahn/64c679fe2e3e4b248e97da26d7b6e011)
+
+This map is a start of the kind of visualization that I want to create for this dataset. It shows the longitude and latitude of where each deployment was. The region is also shown when the user hovers over each deployment. I would like there to be an accurate world map behind these locations. I would also like there to be more information shown about each deployment- maybe size of the circle will be based on the magnitude of the explosion. Lastly, I would like there to be something to show time- maybe a time bar that the user can slide to change the year. 
+
+[![image](https://user-images.githubusercontent.com/23533132/65433064-5171a980-ddea-11e9-9b17-4c68015e19d7.png)](https://beta.vizhub.com/rachelhahn/6564525e2c61457d96b282b152241ffe)
+
+This visualization is a line chart that shows how many nuclear devices each country has deployed compared to the other countries throughout time. I enjoy this visualization because it shows what has happened over time; we can see how the number of deployments changed over time. I think this visalization is also missing the aspect of where each deployment went off (latitude and longitude). 
+
+[![image](https://user-images.githubusercontent.com/23533132/65433552-410dfe80-ddeb-11e9-8870-f43ec268bdbe.png)](https://beta.vizhub.com/rachelhahn/951ee3e6df1446929164d6833eefc92d)
+
+This visualization is a better version of my first prototype; it is a stacked bar chart that shows how many devices each country deployed with the added information of what the purpose of each deployment was. However, it is still missing the location and the time that I want to show in my final visualization. 
 
 ## Questions and Tasks
 
- * Question/task
- * Question/task
- * Question/task
+I want my final visualization to answer the following questions:
+
+ * What countries deploy the most nuclear devices and how does it compare to the other countries? (Show this with the color of the dots)
+ * Where are the devices deployed compared to which country deployed them? (Show this with a map of each deployment and color of the dot)
+ * How does the deployment area for each country change over time? (Show this with a time slider)
+ * What is the magnitude of each deployment compared to the other deployments? (Show this with size of dots)
+ * What is the purpose and type of each device deployed? (Show this with more information in a box when the user clicks on the dot)
 
 ## Sketches
 
-Insert images of the original sketches using same technique as above
-Write paragraph about each sketch
+![image](https://user-images.githubusercontent.com/23533132/65434458-d78eef80-ddec-11e9-8061-52e28af5426b.png)
+
+This image shows my three original sketches for the nuclear dataset. 
+
+1. This first sketch shows a simple bar chart that would show which countries deployed the most nuclear devices compared to the other countries. This sketch definitely answers the first question but none of the other ones because it doesn't show time or location. 
+
+2. The second sketch is a scatter plot that shows how many deployemnts each country had over time. This sketch answers the first question and adds the time aspect to it. However, it still does not show location. 
+
+3. The third sketch is a map that shows where each deployment happened and has the user interaction of being able to change the year as well as click on a circle to see more information. This sketch answers the questions 1, 2, 3, and 5. It still does not answer the 4th question. This sketch is very close to what I would like my final visualization to be. 
 
 ## Open Questions
 
-What am I worried about?? What technical things am I afraid of? 
+There are a few things that I am doubtful that I can complete:
+
+ * I am not sure how to show a world map behind my latitude and longitudes
+ * I am not sure how to create a "time slide" that the user could interact with to change the year to see the change of data
+ * I am not sure how to create an "information box" that would pop up when the user clicks on something
+ 
+ Other than these things, I think I could create something that would answer all my questions!
