@@ -17,3 +17,12 @@ To click on image, it send you to the vizhhub link: copy link from vizhub, edit 
  * Question/task
  * Question/task
  * Question/task
+
+## Sketches
+
+Insert images of the original sketches using same technique as above
+Write paragraph about each sketch
+
+## Open Questions
+
+What am I worried about?? What technical things am I afraid of? 
