@@ -91,10 +91,10 @@ There are a few things that I am doubtful that I can complete:
     - Color the circles based on which country deployed that device.
     - If the animation does not work: Change the size of each circle based on the magnitude of each deployment. 
  2. Create the information box that will pop up when the user clicks on a deployment. **Delivery Date: October 9th**
- 3. Create the time interaction. **Delivery Date: October 16th**
+ 3. Create a filter menu to allow the user to filter based on purpose of deployment and type of deployment. **Delivery Date: October 16th**
+ 4. Create the time interaction. **Delivery Date: October 23rd**
     - Create the line chart that shows number of deployments per year that has a vertical line that the user can slide to change what year the map is showing. 
     - (REACH GOAL) Allow the user to zoom in and out on the map and have the line chart change based on those bounds. 
- 4. Create a filter menu to allow the user to filter based on purpose of deployment and type of deployment. **Delivery Date: October 23rd**
  5. (REACH GOAL) Create the explosion animation that will animate when the user changes the year. **Delivery Date: October 30th (Final Project Due)**
 
 
