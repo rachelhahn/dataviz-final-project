@@ -92,10 +92,9 @@ There are a few things that I am doubtful that I can complete:
     - If the animation does not work: Change the size of each circle based on the magnitude of each deployment. 
  2. Create the information box that will pop up when the user clicks on a deployment. **Delivery Date: October 9th**
  3. Create a filter menu to allow the user to filter based on purpose of deployment and type of deployment. **Delivery Date: October 16th**
- 4. Create the time interaction. **Delivery Date: October 23rd**
-    - Create the line chart that shows number of deployments per year that has a vertical line that the user can slide to change what year the map is showing. 
-    - (REACH GOAL) Allow the user to zoom in and out on the map and have the line chart change based on those bounds. 
- 5. (REACH GOAL) Create the explosion animation that will animate when the user changes the year. **Delivery Date: October 30th (Final Project Due)**
+ 4. Create the time interaction (brushing). **Delivery Date: October 23rd**
+    - Create a histogram under the map that shows number of deployments per year that allows the user to select a specific time frame where the map will only show deployments from that timeframe. The user should also be able to slide that selection through time to see how the map might change over time. 
+ 5. Allow the user to zoom in and out on the map and have the line chart change based on those bounds. **Delivery Date: October 30th (Final Project Due)**
 
 
 
