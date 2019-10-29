@@ -23,11 +23,11 @@ Before I started to create prototype visualizations, I sketched out some ideas f
 
 ![image](https://user-images.githubusercontent.com/23533132/65434458-d78eef80-ddec-11e9-8061-52e28af5426b.png)
 
-1. This first sketch shows a simple bar chart that would show which countries deployed the most nuclear devices compared to the other countries. This sketch definitely answers the first question but none of the other ones because it doesn't show time or location. 
+1. This first sketch shows a simple bar chart that would show which countries deployed the most nuclear devices compared to the other countries.
 
-2. The second sketch is a scatter plot that shows how many deployments each country had over time. This sketch answers the first question and adds the time aspect to it. However, it still does not show location. 
+2. The second sketch is a scatter plot that shows how many deployments each country had over time.
 
-3. The third sketch is a map that shows where each deployment happened and has the user interaction of being able to change the year as well as click on a circle to see more information. This sketch answers the questions 1, 2, 3, and 5. It still does not answer the 4th question. This sketch is very close to what I would like my final visualization to be. 
+3. The third sketch is a map that shows where each deployment happened and has the user interaction of being able to change the year as well as click on a circle to see more information.
 
 ## Prototype Visializations
 
