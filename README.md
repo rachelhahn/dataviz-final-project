@@ -29,7 +29,7 @@ Before I started to create prototype visualizations, I sketched out some ideas f
 
 3. The third sketch is a map that shows where each deployment happened and has the user interaction of being able to change the year as well as click on a circle to see more information.
 
-## Prototype Visializations
+## Prototype Visualizations
 
 Over the course of this class, I made many prototype visualizations that show different aspects of the data. I built my final visualization off of these prototypes. 
 
